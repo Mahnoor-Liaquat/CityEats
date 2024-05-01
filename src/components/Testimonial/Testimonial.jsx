@@ -4,17 +4,17 @@ import Slider from "react-slick";
 const testimonialData = [
   {
     id: 1,
-    text: "Spicy Corner never disappoints! From the vibrant ambiance to the rich flavors of their biryanis, it's a go-to spot for a satisfying culinary experience.",
+    text: "City Eats never disappoints! From the vibrant ambiance to the rich flavors of their biryanis, it's a go-to spot for a satisfying culinary experience.",
     img: "https://picsum.photos/101/101",
   },
   {
     id: 1,
-    text: "Spicy Corner is my biryani haven! The attention to detail in every dish, from the Royal Mughlai to the Spicy Seafood Delight, keeps me coming back for more.",
+    text: "City Eats is my biryani haven! The attention to detail in every dish, from the Royal Mughlai to the Spicy Seafood Delight, keeps me coming back for more.",
     img: "https://picsum.photos/102/102",
   },
   {
     id: 1,
-    text: "Spicy Corner Biryani is a flavor explosion! The diverse menu, including the Vegetarian Paradise, caters to every palate. Consistently delicious my favorite biryani spot!",
+    text: "City Eats Biryani is a flavor explosion! The diverse menu, including the Vegetarian Paradise, caters to every palate. Consistently delicious my favorite biryani spot!",
     img: "https://picsum.photos/103/103",
   },
 ];
@@ -43,7 +43,7 @@ const Testimonial = () => {
             </p>
             <h1 className="text-3xl font-bold">Testimonial</h1>
             <p className="text-xs text-gray-400">
-              "Spicy Corner Biryani is an absolute delight! The Royal Mughlai
+              "City Eats Biryani is an absolute delight! The Royal Mughlai
               Biryani took me on a flavorful journey, and the Spicy Seafood
               Delight Biryani was a true coastal indulgence. The Vegetarian
               Paradise Biryani surprised me with its rich taste. Each biryani is

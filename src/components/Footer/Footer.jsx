@@ -16,16 +16,15 @@ const Footer = () => {
           <div className=" py-8 px-12 ">
             <h1 className="sm:text-3xl text-xl font-bold sm:text-left text-justify mb-3 flex items-center gap-3">
               <img src={footerLogo} alt="Logo" className="max-w-[50px]" />
-              SPICY CORNER
-            </h1>
+              City Eats            </h1>
             <p className="">
-            Spicy Corner Biryani Center invites you to indulge in the magic of biryani. Join us and discover why we are the go-to destination for those who crave the aromatic allure and spicy excellence of this regal delicacy. At Spicy Corner Biryani Center, every meal is a celebration of tradition, taste, and the joy of shared dining experiences.{" "}
+            City Eats Biryani Center invites you to indulge in the magic of biryani. Join us and discover why we are the go-to destination for those who crave the aromatic allure and spicy excellence of this regal delicacy. At City Eats Biryani Center, every meal is a celebration of tradition, taste, and the joy of shared dining experiences.{" "}
             </p>
           </div>
         </div>
         <div>
           <div className="text-center py-10 border-t-2 border-gray-300/50">
-            Made with ❤️ by Mahnoor, Mahrukh & Kulsoom
+            Made with ❤️ by Mudasar Ali
           </div>
         </div>
       </section>

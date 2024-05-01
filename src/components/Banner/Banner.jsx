@@ -32,10 +32,10 @@ const Banner = () => {
               {/* text content section */}
               <div className="flex flex-col justify-center gap-6 sm:pt-0">
                 <h1 className="text-3xl sm:text-4xl font-bold">
-                  About Spicy Corner:
+                  About CityEats:
                 </h1>
                 <p className="text-sm text-gray-500 tracking-wide leading-5">
-                At Spicy Corner Biryani Center, our passion for this royal dish is unparalleled. We have dedicated ourselves to perfecting the art of biryani, ensuring that each preparation reflects the rich heritage and diverse flavors that make this dish a culinary masterpiece.
+                At City Eats Biryani Center, our passion for this royal dish is unparalleled. We have dedicated ourselves to perfecting the art of biryani, ensuring that each preparation reflects the rich heritage and diverse flavors that make this dish a culinary masterpiece.
                   <br />
                   <br />
                   Our journey began with a vision to create a biryani haven that stands out for its commitment to quality, authenticity, and, of course, spice.
