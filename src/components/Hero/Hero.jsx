@@ -41,9 +41,10 @@ return (
               </span>{" "}
               Eats
             </h1>
-            <p className="text-sm ">
-            Welcome to City Eats Biryani Center, where every grain tells a story and each bite is a flavorful journey! 
-            </p>
+            <p className="text-lg font-bold" style={{ color: '#006400', fontFamily: 'Arial' }}>
+    Feel the aroma that tells the story!
+</p>
+
             <div>
               <button className="bg-gradient-to-r from-primary to-secondary hover:scale-105 duration-200 text-white py-2 px-4 rounded-full">
                 Order Now

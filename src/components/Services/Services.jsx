@@ -1,29 +1,28 @@
 import React from "react";
-import Img from "../../assets/biryani5.png";
-import Img2 from "../../assets/fish-biryani.png";
-import Img3 from "../../assets/biryani2.png";
-import StarRatings from "react-star-ratings";
+import Img from "../../assets/Chana dum biryani.jpg";
+import Img2 from "../../assets/chicken biryani.jpg";
+import Img3 from "../../assets/mutton biryani.jpg";
 const ServicesData = [
   {
     id: 1,
     img: Img,
-    name: "Royal Mughlai Biryani",
+    name: "Chana Biryani",
     description:
-      "Regal blend of marinated meat, fragrant rice, and signature spices.",
+      " Fragrant rice with spiced chickpeas, herbs, and saffron",
   },
   {
     id: 2,
     img: Img2,
-    name: "Spicy Seafood Delight Biryani",
+    name: "Chicken Biryani",
     description:
-      "Oceanic medley of succulent seafood and aromatic rice.",
+      " Tender chicken, aromatic basmati, spices, and mint.",
   },
   {
     id: 3,
     img: Img3,
-    name: "Vegetarian Paradise Biryani",
+    name: "Mutton Biryani",
     description:
-      "Vibrant fusion of fresh veggies, aromatic herbs, and basmati rice.",
+      " Succulent mutton, infused with rich spices and saffron rice",
   },
 ];
 const Services = () => {
@@ -38,7 +37,7 @@ const Services = () => {
             </p>
             <h1 className="text-3xl font-bold">Services</h1>
             <p className="text-xs text-gray-400">
-            Spicy Corner Biryani Center is not just about the food. it's a celebration of community and shared love for the iconic dish. Our friendly and knowledgeable staff are here to guide you through our diverse biryani offerings, ensuring that your dining experience is as delightful as the flavors we serve.
+            City Eats Biryani Center is not just about the food. it's a celebration of community and shared love for the iconic dish. Our friendly and knowledgeable staff are here to guide you through our diverse biryani offerings, ensuring that your dining experience is as delightful as the flavors we serve.
             </p>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-14 md:gap-5 place-items-center">
@@ -52,7 +51,7 @@ const Services = () => {
                   <img
                     src={service.img}
                     alt=""
-                    className="max-w-[200px] block mx-auto transform -translate-y-14
+                    className="max-w-[100px] max-h-[150px]block mx-auto transform -translate-y-14
                   group-hover:scale-105 group-hover:rotate-6 duration-300"
                   />
                 </div>

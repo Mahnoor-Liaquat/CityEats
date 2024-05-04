@@ -23,9 +23,6 @@ const Footer = () => {
           </div>
         </div>
         <div>
-          <div className="text-center py-10 border-t-2 border-gray-300/50">
-            Made with ❤️ by Mudasar Ali
-          </div>
         </div>
       </section>
     </div>
